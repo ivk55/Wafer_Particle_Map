@@ -1,0 +1,23 @@
+웨이퍼 매핑 도구 사용법
+
+🚀 간단한 실행 방법:
+1. install_and_run.bat 더블클릭
+2. 자동으로 브라우저 열림
+3. 웨이퍼 매핑 도구 사용
+
+📋 필요한 것:
+- Windows 10/11
+- 인터넷 연결 (최초 설치 시만)
+
+🔧 고급 사용법:
+1. Python 3.8+ 설치
+2. pip install -r requirements.txt
+3. streamlit run wafer_mapping_app.py
+
+⚠️ 주의사항:
+- 최초 실행 시 패키지 다운로드로 시간 소요
+- 브라우저가 자동으로 열리지 않으면 http://localhost:8501 접속
+- 종료는 Ctrl+C 또는 브라우저 창 닫기
+
+📞 문의:
+웨이퍼 매핑 도구 관련 문의사항이 있으시면 개발팀에 연락주세요.
