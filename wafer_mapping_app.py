@@ -324,6 +324,9 @@ def main():
             ["LP1", "LP2", "LP3"],
             help="LP1: [336, 180, 0], LP2: [336, 180, 0], LP3: [180, 26, 0]"
         )
+
+        #신규 EFEM 
+        #"LP1: [314, 226, 0], LP2: [314, 226, 0], LP3: [128, 46, 0]"
         
         # 각도 선택
         angles = angle_options[lp_choice]
